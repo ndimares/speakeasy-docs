@@ -1,9 +1,9 @@
 ---
-title: Get started with Markdoc
-description: How to get started with Markdoc
+title: Speakeasy API Platform
+description: How to get started with Speakeasy
 ---
 
-# Full Next.js example
+# Speakeasy Overview
 
 {% callout %}
 This is a full-featured boilerplate for a creating a documentation website using Markdoc and Next.js.

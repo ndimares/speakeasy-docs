@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@markdoc/markdoc": "latest",
-    "@markdoc/next.js": "latest",
+    "@markdoc/next.js": "^0.1.4",
     "next": "latest",
     "prismjs": "^1.28.0",
     "react": "latest",
